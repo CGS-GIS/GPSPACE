@@ -6,10 +6,9 @@ center:
         http://maia.usno.navy.mil/conventions/2010officialinfo.php
 
 Chap7 and Chap9 directories contain the original files and are copied to this
-(IERS) directory unchanged, with the exception of:
- OLOADN.F, which is a modification of the Chap7/HARDISP.F program, converting
-it to a subroutine usable in GPSPACE, and
- GPT2.F, where the file open/close is managed externally
+(IERS) directory unchanged, with the exception of: OLOADN.F, which is a
+modification of the Chap7/HARDISP.F program, converting it to a subroutine
+usable in GPSPACE, and GPT2.F, where the file open/close is managed externally.
 
 Subroutine DEHANTTIDEINEL is called from bodyt.f to compute earth tides.
 Subroutine OLOADN is called from gpsppp.f to compute ocean tide loading.
