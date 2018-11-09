@@ -1,0 +1,11 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+The source files in this directory were downloaded from the IGRF web site:
+        https://www.ngdc.noaa.gov/IAGA/vmod/igrf.html
+
+Original directory contains the original igrf12.f program and the current
+(IGRF) directory contains a modification of that file, converting it to a
+subroutine usable in GPSPACE.
+
+Subroutine igrf12syn is called from iono2nd.f to compute 2nd and 3rd order
+ionospheric effects.
