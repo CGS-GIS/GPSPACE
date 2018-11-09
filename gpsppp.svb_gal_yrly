@@ -1,0 +1,62 @@
+HDR NOMINAL GALILEO ANTENNA OFFSETS PER BLK
+HDR         dX      dY      dZ
+BLK GA1  11 -0.200   0.0     0.6
+BLK GA2  12  0.150   0.0     1.0
+HDR
+HDR45678901234567890123456789012345678901234567890123456789012345678901234567890
+HDR
+HDR                                   G A L I L E O
+HDR
+HDR                                               International Designation
+HDR                                                  P2-C2 CODE BIAS      |
+HDR                    1 sec. ALLAN VARIANCE OF CLOCK(10E-11)      |      |
+HDR                                     P1-C1 CODE BIAS     |      |      |
+HDR                             P1-P2 CODE BIAS       |     |      |      |
+HDR                      CLK Cs=1,Rb=2,HM=3   |       |     |      |      |
+HDR                    FREQUENCY   OFFSET |   |       |     |      |      |
+HDR            PLANE    A=1,B=2,..,F=6  | |   |       |     |      |      |
+HDR       BLK ( + 10 )           --  |  | |   |       |     |      |      |
+HDR                                | |  | |   |       |     |      |      |
+HDR LAUNCH     DCOMMISSION  P   S  B P  S C   |       |     |      |      |         
+HDR DATE       DATE         R   V  L L  L L   |       |     |      |      |
+HDR YYYY MM DD YYYY MM DD   N   N  K N  T K   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+HDR45678901234567890123456789012345678901234567890123456789012345678901234567890
+HDR GAL01                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2016 05 24 2040 01 01  65 210 12 1  2 3   0.0     0.0   0.0    0.0    2016-030B
+HDR GAL02                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2016 05 24 2040 01 01  66 211 12 1  6 3   0.0     0.0   0.0    0.0    2016-030A
+HDR GAL03                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2016 11 17 2040 01 01  67 212 12 3  8 3   0.0     0.0   0.0    0.0    2016-069B 
+HDR GAL04                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2016 11 17 2040 01 01  68 213 12 3  3 3   0.0     0.0   0.0    0.0    2016-069C 
+HDR GAL05                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2016 11 17 2040 01 01  69 214 12 3  1 3   0.0     0.0   0.0    0.0    2016-069D 
+HDR GAL07                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2016 11 17 2040 01 01  71 207 12 3  6 3   0.0     0.0   0.0    0.0    2016-069A 
+HDR GAL08                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2015 12 17 2040 01 01  72 208 12 3  7 3   0.0     0.0   0.0    0.0    2015-079B         
+HDR GAL09                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2015 12 17 2040 01 01  73 209 12 3  2 3   0.0     0.0   0.0    0.0    2015-079A         
+HDR GAL11                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2011 10 21 2040 01 01  75 101 11 2  5 3   0.0     0.0   0.0    0.0    2011-060A         
+HDR GAL12                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2011 10 21 2040 01 01  76 102 11 2  6 2   0.0     0.0   0.0    0.0    2011-060B         
+HDR GAL14                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2014 08 22 2016 03 19  78 202 12 2  5 3   0.0     0.0   0.0    0.0    2014-050B failure 
+HDR GAL18                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2014 08 22 2016 03 19  82 201 12 2  6 3   0.0     0.0   0.0    0.0    2014-050A failure 
+HDR GAL19                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2012 10 12 2040 01 01  83 103 11 3  4 3   0.0     0.0   0.0    0.0    2012-055A         
+HDR GAL20                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2012 10 12 2040 01 01  84 104 11 3  5 3   0.0     0.0   0.0    0.0    2012-055B         
+HDR GAL21                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2018 10 12 2040 01 01  85 215 12 1  3 3   0.0     0.0   0.0    0.0    2017-079A         
+HDR GAL22                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2015 03 27 2040 01 01  86 204 12 2  3 3   0.0     0.0   0.0    0.0    2015-017B         
+HDR GAL24                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2015 09 11 2040 01 01  88 205 12 1  8 3   0.0     0.0   0.0    0.0    2015-045A         
+HDR GAL26                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2015 03 27 2040 01 01  90 203 12 2  8 3   0.0     0.0   0.0    0.0    2015-017A         
+HDR GAL30                 PRN SVN BL P SL C   P1P2    P1C1  AVCLK  P2C2   INT. ID   Comment
+GAL 2015 09 11 2040 01 01  94 206 12 1  5 3   0.0     0.0   0.0    0.0    2015-045B         
+HDR45678901234567890123456789012345678901234567890123456789012345678901234567890
